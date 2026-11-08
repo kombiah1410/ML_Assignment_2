@@ -1,0 +1,1 @@
+Dataset: sklearn.datasets.load_digits, 1797 records, 64 8x8 pixel features; derived from UCI Optical Recognition of Handwritten Digits. https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
